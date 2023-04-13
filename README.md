@@ -7,5 +7,6 @@ This repository contains reference links to specific contents on my youtube chan
 [Learn to write Subquery in SQL | Multi-row Subqueries | Subquery in FROM clause | PART 2](https://youtu.be/njpD2Rv4PkI)
 [How to write Subquery ? | Scalar Subqueries | Subqueries for Column values | PART 1](https://youtu.be/MFo01SFA-Ac)
 [Tricky SQL Interview Question | Reset Running Sum Value When Negative | Complex Interview Question](https://youtu.be/VUkk2Q7d0qI)
+[SQL | PIVOT Data in SQL | PIVOT Function](https://youtu.be/bg0Yw1-RtMU)
 
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
