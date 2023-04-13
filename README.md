@@ -5,6 +5,7 @@ This repository contains reference links to specific contents on my youtube chan
 [STRING Functions in SQL | PATINDEX | REVERSE | REPLICATE |SUBSTRING | SQL Functions](https://youtu.be/M-o8RqZWbv4)
 [Solving a query with COLUMN SPECIFICATION instead of JOIN and WINDOW function|SQL Interview Question](https://youtu.be/AHzSOyFi-5s)
 [Learn to write Subquery in SQL | Multi-row Subqueries | Subquery in FROM clause | PART 2](https://youtu.be/njpD2Rv4PkI)
-
+[How to write Subquery ? | Scalar Subqueries | Subqueries for Column values | PART 1](https://youtu.be/MFo01SFA-Ac)
+[Tricky SQL Interview Question | Reset Running Sum Value When Negative | Complex Interview Question](https://youtu.be/VUkk2Q7d0qI)
 
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
