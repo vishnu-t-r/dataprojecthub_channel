@@ -9,7 +9,7 @@ This repository contains reference links to specific contents on my youtube chan
 [Tricky SQL Interview Question | Reset Running Sum Value When Negative | Complex Interview Question](https://youtu.be/VUkk2Q7d0qI)
 [SQL | PIVOT Data in SQL | PIVOT Function](https://youtu.be/bg0Yw1-RtMU)
 [SQL | Null Function in SQL | ISNULL | COALESCE | IFNULL | NVL](https://youtu.be/aBrP-tCRRbE)
-
+[SQL | Compare single column value with range of other values in SQL | ALL and ANY Operators](https://youtu.be/DYhIzQLASmw)
 
 
 
