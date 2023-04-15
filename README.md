@@ -10,8 +10,8 @@ This repository contains reference links to specific contents on my youtube chan
 [SQL | PIVOT Data in SQL | PIVOT Function](https://youtu.be/bg0Yw1-RtMU)
 [SQL | Null Function in SQL | ISNULL | COALESCE | IFNULL | NVL](https://youtu.be/aBrP-tCRRbE)
 [SQL | Compare single column value with range of other values in SQL | ALL and ANY Operators](https://youtu.be/DYhIzQLASmw)
-
-
+[Display consecutive days for which conditions are satisfied | Tricky SQL Interview Question](https://youtu.be/4FnFDLAEV4Y)
+[SQL Interview Question | Solving Complex SQL Questions | WINDOW Functions | CTE](https://youtu.be/SatZc2Fq8-4)
 
 
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
