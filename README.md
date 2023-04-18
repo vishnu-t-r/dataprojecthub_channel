@@ -2,7 +2,7 @@
 This repository contains reference links to specific contents on my youtube channel where I create contents on data analytics.
 
 
-[Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
+## SQL
 [Market Basket Analysis using SQL | Items which are frequently bought together | Product Association](https://youtu.be/yfVlbCOKFjA)
 [STRING Functions in SQL | PATINDEX | REVERSE | REPLICATE |SUBSTRING | SQL Functions](https://youtu.be/M-o8RqZWbv4)
 [Solving a query with COLUMN SPECIFICATION instead of JOIN and WINDOW function|SQL Interview Question](https://youtu.be/AHzSOyFi-5s)
@@ -15,5 +15,9 @@ This repository contains reference links to specific contents on my youtube chan
 [Display consecutive days for which conditions are satisfied | Tricky SQL Interview Question](https://youtu.be/4FnFDLAEV4Y)
 [SQL Interview Question | Solving Complex SQL Questions | WINDOW Functions | CTE](https://youtu.be/SatZc2Fq8-4)
 
-
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
+
+## Tableau
+[Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
+
+
