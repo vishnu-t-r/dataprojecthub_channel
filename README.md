@@ -34,6 +34,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | BETWEEN operator on Text, Number and Date | Filtering data with BETWEEN](https://youtu.be/xdAfE8PT-8M)
 
+[SQL Interview Query | Intermediate level SQL query asked in Interview](https://youtu.be/LnV28TzbFMo)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
