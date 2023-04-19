@@ -32,6 +32,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Identify and Manage Reverse Pair Duplicate Data with SQL | 2 Methods | Reverse pair SQL Query](https://youtu.be/CgA_Bzhy4J8)
 
+[SQL | BETWEEN operator on Text, Number and Date | Filtering data with BETWEEN](https://youtu.be/xdAfE8PT-8M)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
