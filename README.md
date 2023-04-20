@@ -44,6 +44,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL|PERCENTILE_DISC and PERCENTILE_CONT|Finding Median and Quartiles in SQL|SQL Analytical functions](https://youtu.be/4Gr93tPMXeo)
 
+[SQL | Appending data in SQL | Combine result set of two or more SELECT | UNION and UNION ALL](https://youtu.be/4y659WHehjE)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
