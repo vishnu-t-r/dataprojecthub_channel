@@ -40,6 +40,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | PIVOT data | Convert data from ROW level to COLUMN level | Using CASE](https://youtu.be/0qLzKDPZDi0)
 
+[SQL | CROSS JOIN | Cartesian Product of Tables in SQL | Cartesian Join](https://youtu.be/Kf2RoLvgBIk)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
