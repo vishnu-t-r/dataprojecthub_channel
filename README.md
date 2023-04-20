@@ -46,6 +46,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | Appending data in SQL | Combine result set of two or more SELECT | UNION and UNION ALL](https://youtu.be/4y659WHehjE)
 
+[SQL Query| Find records from table for which employee name start with vowels ?|Using Wildcard in SQL](https://youtu.be/R3CpRlXSA00)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
