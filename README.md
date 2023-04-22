@@ -54,6 +54,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL| Find managers for every employee in the table|Common SQL interview question|Self Join explained](https://youtu.be/egO3usNRQds)
 
+[SQL | Join with Exclusion in SQL | Full outer join with exclusion | Left/Right Join with exclusion](https://youtu.be/2xBz-VsXtnk)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
