@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[SQL | Random Sampling with SQL | Sampling Records from Large Datasets](https://youtu.be/HKlm_UC7NlY)
+
 [Market Basket Analysis using SQL | Items which are frequently bought together | Product Association](https://youtu.be/yfVlbCOKFjA)
 
 [STRING Functions in SQL | PATINDEX | REVERSE | REPLICATE |SUBSTRING | SQL Functions](https://youtu.be/M-o8RqZWbv4)
