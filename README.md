@@ -52,6 +52,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | Sorting and Filtering data in  SQL | Different filtering methods | LIKE | IN | = |](https://youtu.be/kY5yAxaD1R0)
 
+[SQL| Find managers for every employee in the table|Common SQL interview question|Self Join explained](https://youtu.be/egO3usNRQds)
+
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
 ## Tableau
