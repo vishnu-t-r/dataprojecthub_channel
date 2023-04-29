@@ -58,6 +58,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | Delta Records in SQL | Difference between two tables using SQL | Delta Record | Using 3 method](https://youtu.be/N0vp3cmEM3U)
 
+[SQL | Running SUM and Normal SUM in SQL | Define window for SUM function | Cumulative SUM in SQL](https://youtu.be/ECeVVUpZsCk)
+
 ## Tableau
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
