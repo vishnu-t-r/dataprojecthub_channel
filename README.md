@@ -61,6 +61,10 @@ This repository contains reference links to specific contents on my youtube chan
 [SQL | Running SUM and Normal SUM in SQL | Define window for SUM function | Cumulative SUM in SQL](https://youtu.be/ECeVVUpZsCk)
 
 [SQL|Comparing COUNT(*)-COUNT(1)-COUNT('a')-COUNT(col_nm)-COUNT(DISTINCT col_nm)|Common SQL question?](https://youtu.be/An96RekRAQs)
+
+[SQL | Import Data from Excel file into Microsoft SQL Server | Insert large records to tables](https://youtu.be/R5mL8v1MdIE)
+
+
 ## Tableau
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
