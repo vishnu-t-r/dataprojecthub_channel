@@ -64,6 +64,7 @@ This repository contains reference links to specific contents on my youtube chan
 
 [SQL | Import Data from Excel file into Microsoft SQL Server | Insert large records to tables](https://youtu.be/R5mL8v1MdIE)
 
+[Solving Complex SQL Query | Find new inserts and deletes from a table | SQL Interview Questions](https://youtu.be/EbeudkX1Ntc)
 
 ## Tableau
 
