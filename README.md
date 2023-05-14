@@ -66,6 +66,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Solving Complex SQL Query | Find new inserts and deletes from a table | SQL Interview Questions](https://youtu.be/EbeudkX1Ntc)
 
+[SQL | LEFT (OUTER) JOIN and RIGHT (OUTER) JOIN in SQL | Combine rows from multiple tables | SQL join](https://youtu.be/Fygjx8k85Aw)
+
 ## Tableau
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
