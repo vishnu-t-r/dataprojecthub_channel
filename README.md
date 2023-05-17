@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[SQL | Integer to Decimal conversion in SQL | CAST and CONVERT](https://youtu.be/w6Oe40Ce-HY)
+
 [SQL | Random Sampling with SQL | Sampling Records from Large Datasets](https://youtu.be/HKlm_UC7NlY)
 
 [Market Basket Analysis using SQL | Items which are frequently bought together | Product Association](https://youtu.be/yfVlbCOKFjA)
