@@ -80,4 +80,6 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Bar Chart using Tableau|Tableau Visualization|Bar Chart](https://youtu.be/EWRcBcEFuA0?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
 
+[Pareto Chart using Tableau|Tableau Visualization|Pareto Chart](https://youtu.be/DRmmKwm6cc8?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
+
 
