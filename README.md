@@ -84,4 +84,6 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Heat Map using Tableau|Tableau Visualization|Heat Map](https://youtu.be/YXgXw25E5RU)
 
+[Waterfall Chart using Tableau|Tableau Visualization|Waterfall Chart](https://youtu.be/fM0r9z05a0c?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
+
 
