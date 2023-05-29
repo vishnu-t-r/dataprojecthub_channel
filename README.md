@@ -78,4 +78,6 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
 
+[Bar Chart using Tableau|Tableau Visualization|Bar Chart](https://youtu.be/EWRcBcEFuA0?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
+
 
