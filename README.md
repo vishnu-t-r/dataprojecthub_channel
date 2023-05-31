@@ -89,3 +89,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Line Chart using Tableau|Tableau Visualization|Line Chart](https://www.youtube.com/watch?v=bYqtUWhlqFw&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=5&pp=gAQBiAQB)
 
 [Bubble Chart using Tableau|Tableau Visualization|Bubble Chart](https://www.youtube.com/watch?v=aGTHitGMa3o&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=6)
+
+[Dual Axis Chart using Tableau|Tableau Visualization|Dual Axis Chart](https://www.youtube.com/watch?v=3zRKF0br8Qg&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=7)
