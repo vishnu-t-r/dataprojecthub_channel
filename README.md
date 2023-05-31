@@ -91,3 +91,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Bubble Chart using Tableau|Tableau Visualization|Bubble Chart](https://www.youtube.com/watch?v=aGTHitGMa3o&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=6)
 
 [Dual Axis Chart using Tableau|Tableau Visualization|Dual Axis Chart](https://www.youtube.com/watch?v=3zRKF0br8Qg&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=7)
+
+[Box Plot using Tableau|Tableau Visualization|Creating Box Plot Manually|Box and Whisker Plot](https://www.youtube.com/watch?v=Tuj8a5Xc69c&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=8)
