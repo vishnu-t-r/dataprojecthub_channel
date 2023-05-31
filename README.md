@@ -87,3 +87,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Waterfall Chart using Tableau|Tableau Visualization|Waterfall Chart](https://youtu.be/fM0r9z05a0c?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
 
 [Line Chart using Tableau|Tableau Visualization|Line Chart](https://www.youtube.com/watch?v=bYqtUWhlqFw&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=5&pp=gAQBiAQB)
+
+[Bubble Chart using Tableau|Tableau Visualization|Bubble Chart](https://www.youtube.com/watch?v=aGTHitGMa3o&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=6)
