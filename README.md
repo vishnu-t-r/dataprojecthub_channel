@@ -95,3 +95,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Box Plot using Tableau|Tableau Visualization|Creating Box Plot Manually|Box and Whisker Plot](https://www.youtube.com/watch?v=Tuj8a5Xc69c&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=8)
 
 [Time Series Chart using Tableau|Tableau Visualization|Time Series Chart|Time Series Graph](https://www.youtube.com/watch?v=0B1fNWumCLM&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=9)
+
+[Tableau - How to Dynamically Show or Hide Charts on dashboard](https://www.youtube.com/watch?v=npKdNyG_9yw&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=10)
