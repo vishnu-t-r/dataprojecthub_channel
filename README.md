@@ -99,3 +99,7 @@ This repository contains reference links to specific contents on my youtube chan
 [Tableau - How to Dynamically Show or Hide Charts on dashboard](https://www.youtube.com/watch?v=npKdNyG_9yw&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=10)
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://www.youtube.com/watch?v=WjzLNm_HibU&list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p&index=11)
+
+## PowerBI
+
+[Ribbon Chart in PowerBI|PowerBI Visualization|Ribbon Chart](https://www.youtube.com/watch?v=RzN_W9YsvOI&list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN)
