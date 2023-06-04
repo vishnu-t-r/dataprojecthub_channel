@@ -103,3 +103,5 @@ This repository contains reference links to specific contents on my youtube chan
 ## PowerBI
 
 [Ribbon Chart in PowerBI|PowerBI Visualization|Ribbon Chart](https://www.youtube.com/watch?v=RzN_W9YsvOI&list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN)
+
+[Waterfall Chart in PowerBI|PowerBI Visualization|Waterfall Chart](https://www.youtube.com/watch?v=ii4tCJjY4i0&list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN&index=2)
