@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[SQL Interview Questions | SQL Practice Queries | Part - 1](https://www.youtube.com/watch?v=i06xynssoaw&t=343s)
+
 [Restore and Backup Database in SQL Server Database | SQL Server | Restore Database](https://www.youtube.com/watch?v=8eIEk_5eSwc&t=35s)
 
 [Find the employee earning the highest bonus from the employee and bonus table ? | SQL](https://www.youtube.com/watch?v=JJai8bwmZAc)
