@@ -78,6 +78,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## Tableau
 
+[Bubble Chart in Tableau | Comparing Measures in Tableau | Tableau Charts](https://www.youtube.com/watch?v=RPDFuRjdfqg)
+
 [Scatter Plot in Tableau | Identify Variable Relationship or Correlation | Tableau Chart](https://www.youtube.com/watch?v=yB3vg9uIZ-E&t=17s)
 
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
