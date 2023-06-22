@@ -78,6 +78,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## Tableau
 
+[Scatter Plot in Tableau | Identify Variable Relationship or Correlation | Tableau Chart](https://www.youtube.com/watch?v=yB3vg9uIZ-E&t=17s)
+
 [Tableau Calendar Chart | Tableau Charts | Data Visualization](https://youtu.be/yfVlbCOKFjA)
 
 [Bar Chart using Tableau|Tableau Visualization|Bar Chart](https://youtu.be/EWRcBcEFuA0?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
