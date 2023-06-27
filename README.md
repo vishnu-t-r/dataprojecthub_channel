@@ -119,3 +119,5 @@ This repository contains reference links to specific contents on my youtube chan
 ## Playlist
 
 [Learn SQL Concepts](https://www.youtube.com/watch?v=ECeVVUpZsCk&list=PLRj6ORzjeGQ78O-MPcTWJuqaPUon_y2Ng)
+
+[SQL Interview Questions](https://www.youtube.com/playlist?list=PLRj6ORzjeGQ531TsgG_twzlY0796sVq1Z)
