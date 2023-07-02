@@ -118,6 +118,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Treemap in PowerBI|PowerBI Visualization|Treemap Chart](https://youtu.be/NC0PoUC0p_w)
 
+[Scatter Plot in PowerBI|PowerBI Visualization|Scatter Chart|Live Scatter Plot](https://youtu.be/m12sVU_DG18)
+
 ## Playlist
 
 [Learn SQL Concepts](https://www.youtube.com/watch?v=ECeVVUpZsCk&list=PLRj6ORzjeGQ78O-MPcTWJuqaPUon_y2Ng)
