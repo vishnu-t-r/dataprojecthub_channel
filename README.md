@@ -116,6 +116,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Waterfall Chart in PowerBI|PowerBI Visualization|Waterfall Chart](https://www.youtube.com/watch?v=ii4tCJjY4i0&list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN&index=2)
 
+[Treemap in PowerBI|PowerBI Visualization|Treemap Chart](https://youtu.be/NC0PoUC0p_w)
+
 ## Playlist
 
 [Learn SQL Concepts](https://www.youtube.com/watch?v=ECeVVUpZsCk&list=PLRj6ORzjeGQ78O-MPcTWJuqaPUon_y2Ng)
