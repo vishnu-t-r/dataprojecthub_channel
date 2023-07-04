@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[SQL | Comparing DELETE, DROP and TRUNCATE Statement in SQL | Confusing Interview Question](https://youtu.be/6sa7tdgJtqw)
+
 [SQL Interview Questions | SQL Practice Queries | Part - 1](https://www.youtube.com/watch?v=i06xynssoaw&t=343s)
 
 [Restore and Backup Database in SQL Server Database | SQL Server | Restore Database](https://www.youtube.com/watch?v=8eIEk_5eSwc&t=35s)
