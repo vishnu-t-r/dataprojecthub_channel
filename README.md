@@ -131,3 +131,5 @@ This repository contains reference links to specific contents on my youtube chan
 [SQL Functions](https://www.youtube.com/playlist?list=PLRj6ORzjeGQ43ut0YIOPYoyr35ez0_9dd)
 
 [Dealing with Duplicate data](https://youtube.com/playlist?list=PLRj6ORzjeGQ4PuDkuQEF6Ogu9yeH49p9p)
+
+[Looker Studio](https://youtu.be/0FRZt4pMt68)
