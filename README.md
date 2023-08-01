@@ -133,3 +133,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Dealing with Duplicate data](https://youtube.com/playlist?list=PLRj6ORzjeGQ4PuDkuQEF6Ogu9yeH49p9p)
 
 [Looker Studio](https://youtu.be/0FRZt4pMt68)
+
+[PowerBI Visualization](https://youtube.com/playlist?list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN)
