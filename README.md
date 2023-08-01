@@ -135,3 +135,5 @@ This repository contains reference links to specific contents on my youtube chan
 [Looker Studio](https://youtu.be/0FRZt4pMt68)
 
 [PowerBI Visualization](https://youtube.com/playlist?list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN)
+
+[Tableau Visualization](https://youtube.com/playlist?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
