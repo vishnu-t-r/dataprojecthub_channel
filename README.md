@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[CASE Statement for Conditional Logic in SQL | Assign Customer Tier Based on Order Count | CASE WHEN](https://youtu.be/YNkGeXb-za8)
+
 [SQL | Comparing DELETE, DROP and TRUNCATE Statement in SQL|Confusing Interview Question](https://youtu.be/6sa7tdgJtqw)
 
 [SQL Interview Questions | SQL Practice Queries | Part - 1](https://www.youtube.com/watch?v=i06xynssoaw&t=343s)
