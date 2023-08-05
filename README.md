@@ -128,6 +128,10 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Scatter Plot in PowerBI|PowerBI Visualization|Scatter Chart|Live Scatter Plot](https://youtu.be/m12sVU_DG18)
 
+## Looker Studio
+
+[Retail Store Dashboard created using Data Studio|Google data studio|BigQuery|Looker Studio](https://youtu.be/0FRZt4pMt68)
+
 ## Playlist
 
 [Learn SQL Concepts](https://www.youtube.com/watch?v=ECeVVUpZsCk&list=PLRj6ORzjeGQ78O-MPcTWJuqaPUon_y2Ng)
