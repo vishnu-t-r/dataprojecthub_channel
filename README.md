@@ -4,6 +4,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 ## SQL
 
+[Clustered and Non-Clustered Index in SQL | Improve Query Performance with Index | SQL INDEX](https://youtu.be/Rtftp0UC_DY)
+
 [CASE Statement for Conditional Logic in SQL | Assign Customer Tier Based on Order Count | CASE WHEN](https://youtu.be/YNkGeXb-za8)
 
 [SQL Interview Questions | SQL Practice Queries | Part - 2](https://youtu.be/91T4RXGaCpo)
