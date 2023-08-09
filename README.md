@@ -130,6 +130,8 @@ This repository contains reference links to specific contents on my youtube chan
 
 [Time Series Chart in PowerBI | PowerBI Visualization | Line Chart](https://youtu.be/WyxAMawe--k)
 
+[Decomposition tree in Power BI|Power BI Visualization|Drill down dimensions with Decomposition tree](https://youtu.be/qeWfZC3YP1Q)
+
 ## Looker Studio
 
 [Retail Store Dashboard created using Data Studio|Google data studio|BigQuery|Looker Studio](https://youtu.be/0FRZt4pMt68)
