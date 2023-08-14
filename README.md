@@ -1,5 +1,5 @@
 # dataprojecthub_channel
-This repository contains reference links to specific contents on my youtube channel where I create contents on data analytics.
+This repository contains reference links to contents on my youtube channel where I create contents on data analytics.
 
 
 ## SQL
