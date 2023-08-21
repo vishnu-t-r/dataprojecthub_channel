@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question | Pivot Column Values Under a Header Sorted Alphabetically | SQL](https://www.youtube.com/watch?v=hVUMAssbaeM)
+
 [Clustered and Non-Clustered Index in SQL | Improve Query Performance with Index | SQL INDEX](https://youtu.be/Rtftp0UC_DY)
 
 [CASE Statement for Conditional Logic in SQL | Assign Customer Tier Based on Order Count | CASE WHEN](https://youtu.be/YNkGeXb-za8)
