@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Select Common Records from Tables Without using JOINS | SQL Interview Question | SQL](https://youtu.be/WsAWXyxUNrU?si=nBKb_8-TL0Isj_4J)
+
 [Tricky SQL Interview Question | Pivot Column Values Under a Header Sorted Alphabetically | SQL](https://www.youtube.com/watch?v=hVUMAssbaeM)
 
 [Clustered and Non-Clustered Index in SQL | Improve Query Performance with Index | SQL INDEX](https://youtu.be/Rtftp0UC_DY)
