@@ -4,7 +4,7 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
-[](https://youtu.be/kN0hnQTd_OA?si=PBWen1aqm7Wt32a9)
+[SQL RANK Functions in Detail | Window Functions | Important SQL Interview Question | SQL Analytics](https://youtu.be/kN0hnQTd_OA?si=PBWen1aqm7Wt32a9)
 
 [Converting a String to Date in SQL | CAST | CONVERT | TRY_CAST |TRY_CONVERT|SQL](https://youtu.be/E3_9l98DEmo?si=Ud-g7lyKJHGG4cKk)
 
