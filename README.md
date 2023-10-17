@@ -4,7 +4,7 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
-[](https://youtu.be/u_EHbE8edFI?si=9gi3s5SVgP4v9kgn) 
+[Tricky SQL Interview Question | Preprocess Incorrect Input Table and Solve Query| Important Question](https://youtu.be/u_EHbE8edFI?si=9gi3s5SVgP4v9kgn) 
 
 [SQL RANK Functions in Detail | Window Functions | Important SQL Interview Question|SQL Analytics](https://youtu.be/kN0hnQTd_OA?si=PBWen1aqm7Wt32a9)
 
