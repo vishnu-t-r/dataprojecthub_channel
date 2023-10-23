@@ -98,6 +98,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## Tableau
 
+[Combined Axis vs Dual Axis Chart in Tableau |Combo Chart |Blended Axis Chart | Data Visualization](https://youtu.be/VmFI6srhheE?si=Vw2fHo6aAzNY4qLu)
+
 [Context Filter in Tableau | Dimension Filter & Context Filter | Tableau Filters](https://www.youtube.com/watch?v=Rd2UttJL9YA&t=49s)
 
 [Bubble Chart in Tableau | Comparing Measures in Tableau | Tableau Charts](https://www.youtube.com/watch?v=RPDFuRjdfqg)
