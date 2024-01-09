@@ -100,6 +100,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## Tableau
 
+[Create a Button to Clear All Filters in Tableau | Reset All Visuals in Tableau using a Reset Button](https://youtu.be/Af0PZHLK0SM?si=Xaws4bl6I1hKCUzX)
+
 [Create a Button to Clear All Filters in Tableau | Reset All Visuals in Tableau using a Reset Button](https://youtu.be/Af0PZHLK0SM?si=f5H_QMC4i93lzf7G)
 
 [Combined Axis vs Dual Axis Chart in Tableau |Combo Chart |Blended Axis Chart | Data Visualization](https://youtu.be/VmFI6srhheE?si=Vw2fHo6aAzNY4qLu)
