@@ -167,3 +167,7 @@ This repository contains reference links to contents on my youtube channel where
 [PowerBI Visualization](https://youtube.com/playlist?list=PLRj6ORzjeGQ64hW5gtYarezxOiZDT86CN)
 
 [Tableau Visualization](https://youtube.com/playlist?list=PLRj6ORzjeGQ5orWN1IuLXNem97_WyeK7p)
+
+## ERD
+
+[Entity Relationship Diagram (ERD) || DBMS || Create in SSMS || Data Modeling](https://youtu.be/J6VjX59FzXM?si=d4MLjZZtUczWtoB2)
