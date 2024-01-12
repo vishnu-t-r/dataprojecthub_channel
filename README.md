@@ -100,6 +100,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## Tableau
 
+[Create a Histogram Chart in Tableau | Tableau Visualization | Histogram](https://youtu.be/02nz_eG74fI?si=m-hB-luucIny1e3G)
+
 [Sunburst Chart in Tableau | Tableau Visualization](https://youtu.be/uMYx-l1jjHY?si=v4aNidogkuQOc9Qf)
 
 [Create a Button to Clear All Filters in Tableau | Reset All Visuals in Tableau using a Reset Button](https://youtu.be/Af0PZHLK0SM?si=Xaws4bl6I1hKCUzX)
