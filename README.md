@@ -4,7 +4,9 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
-[SQL Interview Questions | LeetCode Interview Questions | FAANG Interview Questions | Part - 3](https://youtu.be/a_Y3bKTiaFg?si=-5enYHr2YTD1N5ow)
+[SQL Interview Questions | LeetCode Interview Questions | FAANG Interview Questions | Part - 3](https://youtu.be/a_Y3bKTiaFg?si=-5enYHr2YTD1N5ow))
+
+[Complex SQL Interview Question | Find Customers Who Bought All Products](https://youtu.be/8eR-XJ9UBdQ?si=xLPGYpDAgSvEOS9i)
 
 [Dealing with SQL Divide by Zero Error || 2 Methods to Avoid Divide by Zero Error](https://youtu.be/2SNm7SxSenM?si=nklrNsMUgCCrKpFP)
 
