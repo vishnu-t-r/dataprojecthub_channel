@@ -10,6 +10,8 @@ This repository contains reference links to contents on my youtube channel where
 
 [Complex SQL Interview Question | Find Customers Who Bought All Products](https://youtu.be/8eR-XJ9UBdQ?si=xLPGYpDAgSvEOS9i)
 
+[Tricky SQL JOINS Interview Question | JOINS and UNION Explained | Predict the output?](https://youtu.be/07VeG7gwVjQ?si=21x5RDq5OLye9tzm)
+
 [Dealing with SQL Divide by Zero Error || 2 Methods to Avoid Divide by Zero Error](https://youtu.be/2SNm7SxSenM?si=nklrNsMUgCCrKpFP)
 
 [Tricky SQL Interview Question | Preprocess Incorrect Input Table and Solve Query| Important Question](https://youtu.be/u_EHbE8edFI?si=9gi3s5SVgP4v9kgn) 
