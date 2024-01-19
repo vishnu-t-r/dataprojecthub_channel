@@ -6,7 +6,7 @@ This repository contains reference links to contents on my youtube channel where
 
 [UNPIVOT data in SQL | Convert data from Column into Row | UNPIVOT Function](https://youtu.be/Ax2qcQHoWRo?si=51pug-NtZ-e-aGYw)
 
-[SQL Interview Questions | LeetCode Interview Questions | FAANG Interview Questions | Part - 3](https://youtu.be/a_Y3bKTiaFg?si=-5enYHr2YTD1N5ow))
+[SQL Interview Questions | LeetCode Interview Questions | FAANG Interview Questions | Part - 3](https://youtu.be/a_Y3bKTiaFg?si=-5enYHr2YTD1N5ow)
 
 [Complex SQL Interview Question | Find Customers Who Bought All Products](https://youtu.be/8eR-XJ9UBdQ?si=xLPGYpDAgSvEOS9i)
 
