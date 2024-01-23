@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[3 Methods to Delete Duplicate Data using SQL](https://youtu.be/1kCVEGbEjBI?si=BNJKEHnPxnf1IdXV)
+
 [UNPIVOT data in SQL | Convert data from Column into Row | UNPIVOT Function](https://youtu.be/Ax2qcQHoWRo?si=51pug-NtZ-e-aGYw)
 
 [SQL Interview Questions | LeetCode Interview Questions | FAANG Interview Questions | Part - 3](https://youtu.be/a_Y3bKTiaFg?si=-5enYHr2YTD1N5ow)
