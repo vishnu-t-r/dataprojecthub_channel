@@ -6,6 +6,8 @@ This repository contains reference links to contents on my youtube channel where
 
 [Top 10 Commonly Asked SQL Interview Questions](https://youtu.be/Evji5izzsfg?si=BNYhER0SHpZMh0YN)
 
+[Combine Multi-Row Data into Single Row](https://youtu.be/Fgv_00pcftg?si=24MRQefILVIsnWAX)
+
 [3 Methods to Delete Duplicate Data using SQL](https://youtu.be/1kCVEGbEjBI?si=BNJKEHnPxnf1IdXV)
 
 [Group Sold Products By The Date](https://youtu.be/w7tQ4CILSD4?si=WQVIAA2OxO-yqATK)
