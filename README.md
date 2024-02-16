@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Create a Match Schedule | Each team play with every other team Once & Twice](https://youtu.be/6ltK_1jnbmQ?si=Uz0EMKqK7dj59qOB)
+
 [Top 10 Commonly Asked SQL Interview Questions](https://youtu.be/Evji5izzsfg?si=BNYhER0SHpZMh0YN)
 
 [Combine Multi-Row Data into Single Row](https://youtu.be/Fgv_00pcftg?si=24MRQefILVIsnWAX)
