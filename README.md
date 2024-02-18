@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Query Data Type of all Columns in a Table](https://youtu.be/hP4IbSITGtc?si=Gv-3hSmGjRtlLuk3)
+
 [Create a Match Schedule | Each team play with every other team Once & Twice](https://youtu.be/6ltK_1jnbmQ?si=Uz0EMKqK7dj59qOB)
 
 [Top 10 Commonly Asked SQL Interview Questions](https://youtu.be/Evji5izzsfg?si=BNYhER0SHpZMh0YN)
