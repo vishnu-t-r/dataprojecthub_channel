@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Add a column only if it does not already exist | Data Error Handling](https://youtu.be/uzjnl9gRH9U?si=9aj3TvHbJYZenupS)
+
 [Query Data Type of all Columns in a Table](https://youtu.be/hP4IbSITGtc?si=Gv-3hSmGjRtlLuk3)
 
 [Create a Match Schedule | Each team play with every other team Once & Twice](https://youtu.be/6ltK_1jnbmQ?si=Uz0EMKqK7dj59qOB)
