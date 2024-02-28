@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Ranking Most Active Guests | Stratascratch | Airbnb Interview Question](https://youtu.be/VZpzsY5yM8c?si=4NF1KDw7GMGqvbVd)
+
 [Add a column only if it does not already exist | Data Error Handling](https://youtu.be/uzjnl9gRH9U?si=9aj3TvHbJYZenupS)
 
 [Query Data Type of all Columns in a Table](https://youtu.be/hP4IbSITGtc?si=Gv-3hSmGjRtlLuk3)
