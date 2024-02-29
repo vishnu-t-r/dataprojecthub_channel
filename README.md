@@ -24,6 +24,8 @@ This repository contains reference links to contents on my youtube channel where
 
 [WITH Clause in SQL | Common Table Expression](https://youtu.be/aq707K4qoyM?si=QaL412IVXjleXEW1)
 
+[Find Friend Request Acceptance Rate by Date?](https://youtu.be/afdIapd9QKE?si=Ks-juR4qnVoJbvpq)
+
 [3 Methods to Delete Duplicate Data using SQL](https://youtu.be/1kCVEGbEjBI?si=BNJKEHnPxnf1IdXV)
 
 [Group Sold Products By The Date](https://youtu.be/w7tQ4CILSD4?si=WQVIAA2OxO-yqATK)
