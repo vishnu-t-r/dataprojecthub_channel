@@ -20,6 +20,8 @@ This repository contains reference links to contents on my youtube channel where
 
 [Recommend pages for a person based on the pages liked by his friends](https://youtu.be/mMfDww0ks9o?si=0v8YyfkVPorshYlk)
 
+[Ungroup Data in SQL | Recursive CTE](https://youtu.be/Eb2XenVEUHo?si=2Ua0Su6PBPquepuB)
+
 [3 Methods to Delete Duplicate Data using SQL](https://youtu.be/1kCVEGbEjBI?si=BNJKEHnPxnf1IdXV)
 
 [Group Sold Products By The Date](https://youtu.be/w7tQ4CILSD4?si=WQVIAA2OxO-yqATK)
