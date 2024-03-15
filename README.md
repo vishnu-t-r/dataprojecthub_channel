@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Calculate percentage spam post among viewed post](https://youtu.be/p3rHfwJyoLs?si=c17zFGT7fBQaBN1d)
+
 [Top 10 SQL Interview Questions | Intermediate to Advanced](https://youtu.be/tViR-GCktGI?si=SEwVRopTQvKmOQCm)
 
 [Ranking Most Active Guests | Stratascratch | Airbnb Interview Question](https://youtu.be/VZpzsY5yM8c?si=4NF1KDw7GMGqvbVd)
