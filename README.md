@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Number of times each word appear in draft | CROSS APPLY Function](https://youtu.be/b-EAEKSdNmY?si=VEafb9XN_BSs5E0X)
+
 [How to retrieve distinct records not using DISTINCT keyword](https://youtu.be/XzkJ2f1DjiE?si=TPz6BKL_f7Vzt500)
 
 [Find the popularity percentage for each user on Meta/Facebook](https://youtu.be/ZJvLGnGnAck?si=dq7RwnxTEp2mmh6J)
