@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[How to Write Better SQL | 5 Tips for Better SQL Queries](https://youtu.be/x4UO95Cj0ZM?si=jztTMsFiPj6AYC9-)
+
 [Number of times each word appear in draft | CROSS APPLY Function](https://youtu.be/b-EAEKSdNmY?si=VEafb9XN_BSs5E0X)
 
 [How to retrieve distinct records not using DISTINCT keyword](https://youtu.be/XzkJ2f1DjiE?si=TPz6BKL_f7Vzt500)
