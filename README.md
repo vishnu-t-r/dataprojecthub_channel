@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Number of Shipments per Year-Month | Using CONVERT](https://youtu.be/O1VQx89AnBk?si=v4BkeFuSkNP0XIxd)
+
 [How to Write Better SQL | 5 Tips for Better SQL Queries](https://youtu.be/x4UO95Cj0ZM?si=jztTMsFiPj6AYC9-)
 
 [Number of times each word appear in draft | CROSS APPLY Function](https://youtu.be/b-EAEKSdNmY?si=VEafb9XN_BSs5E0X)
