@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Most Commonly Asked SQL Interview Question | Frequently Asked Question | SQL](https://youtu.be/aJSMYi0UZPI?si=lmay9Plc0CKF6P5i)
+
 [Master SQL with These 3 Engaging Games | Fun Practice to Boost Your SQL Skills](https://www.youtube.com/watch?v=9hyN93ts298)
 
 [Number of Shipments per Year-Month | Using CONVERT](https://youtu.be/O1VQx89AnBk?si=v4BkeFuSkNP0XIxd)
