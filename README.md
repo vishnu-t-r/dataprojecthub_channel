@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Top 10 Advanced SQL Interview Questions | Frequently Asked Questions | Explained in Detail](https://youtu.be/o2kW60rQrAc?si=hA3QffRG5ajSSpv_)
+
 [Most Commonly Asked SQL Interview Question | Frequently Asked Question | SQL](https://youtu.be/aJSMYi0UZPI?si=lmay9Plc0CKF6P5i)
 
 [Master SQL with These 3 Engaging Games | Fun Practice to Boost Your SQL Skills](https://www.youtube.com/watch?v=9hyN93ts298)
