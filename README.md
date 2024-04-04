@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question | Coding Challenges | SQL Analytical Functions](https://youtu.be/tD-tt8SE3nw?si=qkenyVXJFqfhsMF5)
+
 [Top 10 Advanced SQL Interview Questions | Frequently Asked Questions | Explained in Detail](https://youtu.be/o2kW60rQrAc?si=hA3QffRG5ajSSpv_)
 
 [Most Commonly Asked SQL Interview Question | Frequently Asked Question | SQL](https://youtu.be/aJSMYi0UZPI?si=lmay9Plc0CKF6P5i)
