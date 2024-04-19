@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Extract Date Parts Without Using Date Functions in SQL](https://youtu.be/a2i47Ih2vak?si=iaoRtC3vb50RDjaS)
+
 [Complex SQL Interview Question | Find Start date and End date of Project | Project Planning](https://youtu.be/eBnuzonspds?si=YQ03dJ8DIyGnrfj1)
 
 [Complex SQL Interview Question | Coding Challenges | SQL Analytical Functions](https://youtu.be/tD-tt8SE3nw?si=qkenyVXJFqfhsMF5)
