@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Monthly Percentage Revenue Difference](https://youtu.be/jodaF8n2MFU?si=2PZIfKc1sYYRHK1i)
+
 [Extract Date Parts Without Using Date Functions in SQL](https://youtu.be/a2i47Ih2vak?si=iaoRtC3vb50RDjaS)
 
 [Complex SQL Interview Question | Find Start date and End date of Project | Project Planning](https://youtu.be/eBnuzonspds?si=YQ03dJ8DIyGnrfj1)
