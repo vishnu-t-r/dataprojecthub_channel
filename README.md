@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question | Calculate Average User Session Time | Data Analyst Interview](https://youtu.be/jpTUU9rPvyc?si=yz4D2xt6a6zs2Ff8)
+
 [Change Column Data Types to Appropriate Data Types | SQL - Better Data Management](https://youtu.be/Gg3glb5BZZk?si=IEU94oCEmcpDS0UD)
 
 [SQL Interview Question | Monthly Percentage Revenue Difference](https://youtu.be/jodaF8n2MFU?si=2PZIfKc1sYYRHK1i)
