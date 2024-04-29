@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Change Column Data Types to Appropriate Data Types | SQL - Better Data Management](https://youtu.be/Gg3glb5BZZk?si=IEU94oCEmcpDS0UD)
+
 [SQL Interview Question | Monthly Percentage Revenue Difference](https://youtu.be/jodaF8n2MFU?si=2PZIfKc1sYYRHK1i)
 
 [Extract Date Parts Without Using Date Functions in SQL](https://youtu.be/a2i47Ih2vak?si=iaoRtC3vb50RDjaS)
