@@ -164,6 +164,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## Tableau
 
+[Bump Chart in Tableau | Rank Chart | Tableau Visualization](https://youtu.be/8op_5_cPdcM?si=g0DGG8M1nfPk5lpJ)
+
 [Map with Pie Chart in Tableau | Tableau Visualization | How to add Pie Charts into Your Maps](https://youtu.be/NEEZF_GHsxk?si=t_ysExaVs3qDSAyN)
 
 [Create an Area Chart in Tableau](https://youtu.be/UwY8dZRhxSk?si=Rz4w9igDQ5dPG1XK)
