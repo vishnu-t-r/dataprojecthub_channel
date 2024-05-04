@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Functions | ALTER TABLE Statement in SQL | Modify Tables](https://youtu.be/zI7DKcT1IEA?si=mwJf3GXp1upe9jGQ)
+
 [Tricky SQL Interview Question | Calculate Average User Session Time | Data Analyst Interview](https://youtu.be/jpTUU9rPvyc?si=yz4D2xt6a6zs2Ff8)
 
 [Change Column Data Types to Appropriate Data Types | SQL - Better Data Management](https://youtu.be/Gg3glb5BZZk?si=IEU94oCEmcpDS0UD)
