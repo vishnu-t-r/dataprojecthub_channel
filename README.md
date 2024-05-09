@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question | Meta Interview Question | StrataScratch](https://youtu.be/g38Bn1p7GvY?si=W9JP1RRLmlQM66vD)
+
 [SQL Interview Question| Find Max Customer Id Who Placed Only One Order| Data Analyst SQL Interview](https://youtu.be/XyF28wRDz78?si=hTFq4NS-QobcummD)
 
 [SQL Interview Question | Find Percentage of Shippable Orders | Data Analyst Interview Question](https://youtu.be/NPxweq5NSBQ?si=sdCyStiFHDEoagFG)
