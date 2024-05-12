@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question | Amazon | Google | SQL Interview Question](https://youtu.be/aMv_AS9digw?si=oVQQ4tMrjEsxfYRJ)
+
 [Generate a Sequence of Continuous Dates Using SQL | Perfect Calendar in SQL](https://youtu.be/YDULY2j96tQ?si=s2gEGp8uiEP-KyEs)
 
 [SQL Interview Question | Symmetric Data Pairs | Data Analyst Interview Question](https://youtu.be/EK1BIEYQYhM?si=nJxBQOpPlIrG-9Qu)
