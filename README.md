@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question | Data Analyst| Data Engineer| Data Scientist| Min-Max Group Sequence](https://youtu.be/09S157BBcQQ?si=DqR_WyZqhtSbOnVG)
+
 [Solving SQL Interview Question with MULTIPLE Solutions | SQL Interview | 3 Solutions Explained](https://youtu.be/GhD2MZv4OMU?si=DZiHy3oGyZ7PTn0w)
 
 [Data Analyst SQL Interview Question | Amazon | Google | SQL Interview Question](https://youtu.be/aMv_AS9digw?si=oVQQ4tMrjEsxfYRJ)
