@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Challenge | SQL Interview Question | 3 Practice SQL Questions | Part -1](https://youtu.be/K9M9Bn8qR8c?si=rwUh7Nv8QNDufZrZ)
+
 [SQL Interview Question | Digitize a Match Result Table | Data-Analyst-Scientist-Engineer](https://youtu.be/ldfLae_fikE?si=gcz8DdjwAFfHVa6e)
 
 [SQL Interview Question | Concat Email ID Associated With Each Dept ID | SQL Practice Questions](https://youtu.be/NhxBWjvq_n4?si=yqyqzjW3L13UXyVs)
