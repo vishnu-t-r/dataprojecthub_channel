@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Digitize a Match Result Table | Data-Analyst-Scientist-Engineer](https://youtu.be/ldfLae_fikE?si=gcz8DdjwAFfHVa6e)
+
 [SQL Interview Question | Concat Email ID Associated With Each Dept ID | SQL Practice Questions](https://youtu.be/NhxBWjvq_n4?si=yqyqzjW3L13UXyVs)
 
 [Tricky SQL Interview Question | Data Analyst| Data Engineer| Data Scientist| Min-Max Group Sequence](https://youtu.be/09S157BBcQQ?si=DqR_WyZqhtSbOnVG)
