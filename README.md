@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[EY Interview Question | Derive the Net Balance of the Transaction Amount | SQL Interview Question](https://youtu.be/0dtPReuS_aY?si=hlhqPLVWYsdzEHvI)
+
 [SQL Interview question | Write a Query to Display all English Alphabets Using SQL | Recursive CTE](https://youtu.be/2jCOfIU-nkk?si=6lkGpqmjVI5IDXUc)
 
 [SQL Challenge | SQL Interview Question | 3 Practice SQL Questions | Part -1](https://youtu.be/K9M9Bn8qR8c?si=rwUh7Nv8QNDufZrZ)
