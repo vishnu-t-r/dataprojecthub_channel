@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Row to Column Not Using UNPIVOT Function || Data Analyst SQL Interview](https://youtu.be/gABdk2d6R-w?si=81IQtnjbUQDXjwxl)
+
 [EY Interview Question | Derive the Net Balance of the Transaction Amount | SQL Interview Question](https://youtu.be/0dtPReuS_aY?si=hlhqPLVWYsdzEHvI)
 
 [SQL Interview question | Write a Query to Display all English Alphabets Using SQL | Recursive CTE](https://youtu.be/2jCOfIU-nkk?si=6lkGpqmjVI5IDXUc)
