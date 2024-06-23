@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question || Find the Missing ID from the input table || Important](https://youtu.be/JQQs_NZTRLg?si=TO3An_SkW8mMuaah)
+
 [Data Analyst SQL Interview Question || What will be the Output for Different Joins ? || Important!](https://youtu.be/pZRyxpwmdII?si=1rbBFugtTXm14pSc)
 
 [SQL Interview Question || Row to Column Not Using UNPIVOT Function || Data Analyst SQL Interview](https://youtu.be/gABdk2d6R-w?si=81IQtnjbUQDXjwxl)
