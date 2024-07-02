@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Compare Source and Target Table | Data Analyst | Data Engineer | BI Analyst](https://youtu.be/QKuIzwQnATY?si=-9RWg-emNE5_AYbx)
+
 [Tricky SQL Interview Question || Window Function || Case Statement || Data Analyst SQL Interview](https://youtu.be/SjGobTscew4?si=Kn5omvWR02THtd4G)
 
 [Data Analyst SQL Interview Question || Find the Missing ID from the input table || Important](https://youtu.be/JQQs_NZTRLg?si=TO3An_SkW8mMuaah)
