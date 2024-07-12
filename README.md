@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Certification for Beginners || Mastering SQL || Learn, Certify, and Advance in Your Data Career!](https://youtu.be/q3F4pn1tPAI?si=L6wli5akvvskevEa)
+
 [SQL Interview Question || Obtain Multiple Result From Same Input Table || Frequently Asked Question](https://youtu.be/d9gDLkjJeMQ?si=SGkLTFd4Q6ndsL3c)
 
 [SQL Interview Question | Find Items Bought Consecutively Three or More Time | Frequently Asked](https://youtu.be/mGETMHKkkso?si=Oh15a4ncjkgsbbtr)
