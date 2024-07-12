@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Obtain Multiple Result From Same Input Table || Frequently Asked Question](https://youtu.be/d9gDLkjJeMQ?si=SGkLTFd4Q6ndsL3c)
+
 [SQL Interview Question | Find Items Bought Consecutively Three or More Time | Frequently Asked](https://youtu.be/mGETMHKkkso?si=Oh15a4ncjkgsbbtr)
 
 [SQL Interview Question | Compare Source and Target Table | Data Analyst | Data Engineer | BI Analyst](https://youtu.be/QKuIzwQnATY?si=-9RWg-emNE5_AYbx)
