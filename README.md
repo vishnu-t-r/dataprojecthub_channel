@@ -214,6 +214,10 @@ This repository contains reference links to contents on my youtube channel where
 
 [SQL | LEFT (OUTER) JOIN and RIGHT (OUTER) JOIN in SQL | Combine rows from multiple tables | SQL join](https://youtu.be/Fygjx8k85Aw)
 
+## BI
+
+[Business Intelligence Interview Questions || BI Conceptual Interview Questions || Data Analytics](https://youtu.be/58buvcp-aUo?si=ZqlI9fdFuSbu-c98)
+
 ## Tableau
 
 [Update Database Table from Tableau Dashboard | Tableau Advanced](https://youtu.be/MLsI02Fehg4?si=07-nbS4c6f1MmA8W)
