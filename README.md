@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question || Movie Theatre Like Seating Numbers || Data Analyst SQL Interview](https://youtu.be/NC9_BNzommA?si=HTuv8IBNyo4WzcFi)
+
 [Data Transformation || SQL Interview Question || Extract Only Required Parts From a Given String](https://youtu.be/Lk5uItbcDd0?si=C8_5x6FUf08JNRL3)
 
 [SQL Certification for Beginners || Mastering SQL || Learn, Certify, and Advance in Your Data Career!](https://youtu.be/q3F4pn1tPAI?si=L6wli5akvvskevEa)
