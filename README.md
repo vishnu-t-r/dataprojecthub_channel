@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[HackerRank SQL Challenge || HackerRank Basic SQL Certification || Try Now!](https://youtu.be/BKrzcUR5feI?si=ZaKSdb0maLOXFgrU)
+
 [Tricky SQL Interview Question || Movie Theatre Like Seating Numbers || Data Analyst SQL Interview](https://youtu.be/NC9_BNzommA?si=HTuv8IBNyo4WzcFi)
 
 [Data Transformation || SQL Interview Question || Extract Only Required Parts From a Given String](https://youtu.be/Lk5uItbcDd0?si=C8_5x6FUf08JNRL3)
