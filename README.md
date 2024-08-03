@@ -4,7 +4,7 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
-[SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=QaZDAdLRL9pQRoS50
+[SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=QaZDAdLRL9pQRoS50)
 
 [HackerRank SQL Challenge || HackerRank Basic SQL Certification || Try Now!](https://youtu.be/BKrzcUR5feI?si=9wtmOBmYbUlMkn48)
 
