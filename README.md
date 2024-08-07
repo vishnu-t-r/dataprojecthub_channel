@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Commonly Asked SQL Interview Question || Aggregate & Ranking Function](https://youtu.be/ZO2E0r7X-bY?si=Zw3cirdQOMm7thcm)
+
 [SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=lHxLWfEGObs4XCbV)
 
 [SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=QaZDAdLRL9pQRoS50)
