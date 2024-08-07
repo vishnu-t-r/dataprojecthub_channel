@@ -4,15 +4,11 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question || Data Analyst SQL Interview Question || Try Solving This !](https://youtu.be/IdfnbLWM1bI?si=6rFWCY-5PNLyhuvE)
+
 [SQL Interview Question || Commonly Asked SQL Interview Question || Aggregate & Ranking Function](https://youtu.be/ZO2E0r7X-bY?si=Zw3cirdQOMm7thcm)
 
-[SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=lHxLWfEGObs4XCbV)
-
 [SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=QaZDAdLRL9pQRoS50)
-
-[HackerRank SQL Challenge || HackerRank Basic SQL Certification || Try Now!](https://youtu.be/BKrzcUR5feI?si=9wtmOBmYbUlMkn48)
-
-[SQL Interview Question || School Seat Arrangement || Commonly Asked SQL Screening Question || SQL](https://youtu.be/CchYvDcnk00?si=NMCXiD9jTjFa3uuM)
 
 [HackerRank SQL Challenge || HackerRank Basic SQL Certification || Try Now!](https://youtu.be/BKrzcUR5feI?si=ZaKSdb0maLOXFgrU)
 
