@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question || Customer Transaction Mode Analysis || Data Analyst SQL Interview](https://youtu.be/uatTGyWB4DE?si=NR2f23lQnUODRIBS)
+
 [Complex SQL Interview Question || Data Analyst SQL Interview Question || Try Solving This !](https://youtu.be/IdfnbLWM1bI?si=6rFWCY-5PNLyhuvE)
 
 [SQL Interview Question || Commonly Asked SQL Interview Question || Aggregate & Ranking Function](https://youtu.be/ZO2E0r7X-bY?si=Zw3cirdQOMm7thcm)
