@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[30 SQL Interview Questions || Important and Frequently Asked SQL Interview Questions || Must Know!](https://youtu.be/SbF7xHtu5NI?si=yPfbQYIC2V_j6U0f)
+
 [Complex SQL Interview Question || Customer Transaction Mode Analysis || Data Analyst SQL Interview](https://youtu.be/uatTGyWB4DE?si=NR2f23lQnUODRIBS)
 
 [Complex SQL Interview Question || Data Analyst SQL Interview Question || Try Solving This !](https://youtu.be/IdfnbLWM1bI?si=6rFWCY-5PNLyhuvE)
