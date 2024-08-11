@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question || Data Analyst SQL Interview Question || Solve Using 2 Methods!](https://youtu.be/nSuoLAe_9pc?si=ntJSVcWnZDKjO7r_)
+
 [30 SQL Interview Questions || Important and Frequently Asked SQL Interview Questions || Must Know!](https://youtu.be/SbF7xHtu5NI?si=yPfbQYIC2V_j6U0f)
 
 [Complex SQL Interview Question || Customer Transaction Mode Analysis || Data Analyst SQL Interview](https://youtu.be/uatTGyWB4DE?si=NR2f23lQnUODRIBS)
