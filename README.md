@@ -4,7 +4,7 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
-[Data Analytics in Movies || Hollywood vs Reality: Minority Report || How Real Is Minority Report?](https://youtu.be/H7CmlzMt5cc?si=X8nBAz1cYVkDETPq)
+[Data Analytics in Movies|| Hollywood vs Reality: Minority Report|| How Real Is Minority Report?](https://youtu.be/H7CmlzMt5cc?si=X8nBAz1cYVkDETPq)
 
 [Complex SQL Interview Question || Data Analyst SQL Interview Question || Solve Using 2 Methods!](https://youtu.be/nSuoLAe_9pc?si=ntJSVcWnZDKjO7r_)
 
