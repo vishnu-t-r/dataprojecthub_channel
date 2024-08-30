@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question || Results Using Best of Five Rule || Data Analyst Interview Question](https://youtu.be/l9CBcMckgR0?si=dj9rIarcI5tXEPMe)
+
 [SQL Interview Question || Data Analyst & Data Engineer SQL Interview Question || Try Solving This](https://youtu.be/Cew0USyNqQk?si=qVGSkhRErTiBKV-Q)
 
 [Data Analytics in Movies|| Hollywood vs Reality: Minority Report|| How Real Is Minority Report?](https://youtu.be/H7CmlzMt5cc?si=X8nBAz1cYVkDETPq)
