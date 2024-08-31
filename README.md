@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Identifying Customers Who Ordered Multiple Distinct Product](https://youtu.be/pXbRaY7_dVs?si=TWNf7SR0TYZ5u4dV)
+
 [Complex SQL Interview Question || Results Using Best of Five Rule || Data Analyst Interview Question](https://youtu.be/l9CBcMckgR0?si=dj9rIarcI5tXEPMe)
 
 [SQL Interview Question || Data Analyst & Data Engineer SQL Interview Question || Try Solving This](https://youtu.be/Cew0USyNqQk?si=qVGSkhRErTiBKV-Q)
