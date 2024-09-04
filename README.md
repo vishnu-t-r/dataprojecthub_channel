@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Solve the Query Using Single SELECT Statement || Try This!](https://youtu.be/0aFakMU6rRw?si=UAO1iYdqJfjRuUGw)
+
 [How to Create a Data Model || Entity Relationship Diagram || SQL Data Modeling Step-by-Step](https://youtu.be/6bVZb3zoTsI?si=Ikw2Q5yK3FC7-ZNN)
 
 [SQL Interview Question || Identifying Customers Who Ordered Multiple Distinct Product](https://youtu.be/pXbRaY7_dVs?si=TWNf7SR0TYZ5u4dV)
