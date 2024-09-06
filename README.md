@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Calculate Visitors to Customers Conversion Rate || Data Analyst Interview](https://youtu.be/DGkvWxc50r4?si=qtHnzdJq0_0Mkyiz)
+
 [SQL Interview Question || Solve the Query Using Single SELECT Statement || Try This!](https://youtu.be/0aFakMU6rRw?si=UAO1iYdqJfjRuUGw)
 
 [How to Create a Data Model || Entity Relationship Diagram || SQL Data Modeling Step-by-Step](https://youtu.be/6bVZb3zoTsI?si=Ikw2Q5yK3FC7-ZNN)
