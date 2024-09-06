@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Zomato SQL Interview Question || Data Analyst SQL Interview Question || Advanced SQL](https://youtu.be/-hSHcoCDKys?si=HsnK6ZohkjoPeixo)
+
 [SQL Interview Question || Calculate Visitors to Customers Conversion Rate || Data Analyst Interview](https://youtu.be/DGkvWxc50r4?si=qtHnzdJq0_0Mkyiz)
 
 [SQL Interview Question || Solve the Query Using Single SELECT Statement || Try This!](https://youtu.be/0aFakMU6rRw?si=UAO1iYdqJfjRuUGw)
