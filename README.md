@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Amazon SQL Interview Question || Data Analyst SQL Interview Question || Intermediate SQL](https://youtu.be/0ZFHe2uuyB4?si=3nwc2nvE5WfsPI4A)
+
 [Uber SQL Interview Question || Data Analyst SQL Interview Question || Intermediate SQL](https://youtu.be/PhiUnP1o9SI?si=I9057isKd_nUxqi1)
 
 [Zomato SQL Interview Question || Data Analyst SQL Interview Question || Advanced SQL](https://youtu.be/-hSHcoCDKys?si=HsnK6ZohkjoPeixo)
