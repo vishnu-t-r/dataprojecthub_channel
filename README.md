@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question || Calculate the Moving Average for Stock Price || Intermediate SQL](https://youtu.be/Oh4vuSUKABQ?si=vy4HL0gqvRczYHRf)
+
 [Master These Skills to Join the Top 1% Data Analyst || Skills You Need to Become a Top Data Analyst](https://youtu.be/5ssldQ9DcBA?si=cE2LfGMRQ_dv_mEY)
 
 [Scenario Based SQL Interview Question || Analyze Product Sales Growth || SQL Interview Question](https://youtu.be/bfcJCePqY-U?si=Cn31_rMQFcJ-pwJ4)
