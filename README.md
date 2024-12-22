@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Latent View SQL Interview Question || Data Analyst SQL Interview SQL || Identify Duplicate Data](https://youtu.be/0Jyv238Ilfk?si=i2Uxa0Rjly2HyFFt)
+
 [Walmart SQL Interview Question || Data Analyst SQL Interview Question || Pareto Rule](https://youtu.be/llVxlWVwzns?si=AjmDls_xhxm_lgrl)
 
 [SQL Interview Question || Swiggy Data Analyst Interview Question || Try Solving](https://youtu.be/KVYc68MkkoU?si=lK9WwRkGGe2oLQt4)
