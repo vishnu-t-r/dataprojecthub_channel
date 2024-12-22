@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Walmart SQL Interview Question || Data Analyst SQL Interview Question || Pareto Rule](https://youtu.be/llVxlWVwzns?si=AjmDls_xhxm_lgrl)
+
 [SQL Interview Question || Swiggy Data Analyst Interview Question || Try Solving](https://youtu.be/KVYc68MkkoU?si=lK9WwRkGGe2oLQt4)
 
 [Tricky SQL Interview Question || PayPal Data Analyst SQL Interview Question || Try Solving This](https://youtu.be/yOscWjX9yQo?si=oQI7aKPlul0ZPDZr)
