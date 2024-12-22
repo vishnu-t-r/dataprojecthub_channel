@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question || Swiggy Data Analyst Interview Question || Try Solving](https://youtu.be/KVYc68MkkoU?si=lK9WwRkGGe2oLQt4)
+
 [Tricky SQL Interview Question || PayPal Data Analyst SQL Interview Question || Try Solving This](https://youtu.be/yOscWjX9yQo?si=oQI7aKPlul0ZPDZr)
 
 [Tricky SQL Interview Question || IBM Data Analytics SQL Interview Question](https://youtu.be/I0mReceep9k?si=SuFT3EgEsGztoq-X)
