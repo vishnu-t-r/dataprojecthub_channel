@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question || Data Analyst Interview Question || Limitation of WINDOW Function](9https://youtu.be/MfNVqu9HmAM?si=7V6b7Te8rML5cMIw)
+
 [Data Analyst SQL Interview Question || Fractal SQL Interview Question || FRAME Clause in WINDOW](https://youtu.be/bGoIagG4CGQ?si=Ejco7Rxptd7sB4xK)
 
 [Amazon Scenario Based SQL Interview Question || Data Analyst Interview Question](https://youtu.be/Gn3OEp79bXE?si=Neog1wDyXIy2NgLa)
