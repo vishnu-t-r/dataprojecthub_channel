@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question || Fractal SQL Interview Question || FRAME Clause in WINDOW](https://youtu.be/bGoIagG4CGQ?si=Ejco7Rxptd7sB4xK)
+
 [Amazon Scenario Based SQL Interview Question || Data Analyst Interview Question](https://youtu.be/Gn3OEp79bXE?si=Neog1wDyXIy2NgLa)
 
 [Latent View SQL Interview Question || Data Analyst SQL Interview SQL || Identify Duplicate Data](https://youtu.be/0Jyv238Ilfk?si=i2Uxa0Rjly2HyFFt)
