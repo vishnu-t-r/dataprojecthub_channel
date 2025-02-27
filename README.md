@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Mastering SQL Concepts with Practical Questions || SQL for Real-World Scenarios](https://youtu.be/1F6fKDri-xM?si=IUdC9-7Kc67qsPsY)
+
 [Complex SQL Interview Question || Data Analyst Interview Question || Limitation of WINDOW Function](9https://youtu.be/MfNVqu9HmAM?si=7V6b7Te8rML5cMIw)
 
 [Data Analyst SQL Interview Question || Fractal SQL Interview Question || FRAME Clause in WINDOW](https://youtu.be/bGoIagG4CGQ?si=Ejco7Rxptd7sB4xK)
