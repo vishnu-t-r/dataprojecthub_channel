@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[How to Remove Duplicate Data in SQL || Handling Duplicate Using SQL || Delete Duplicate-Part 2](https://youtu.be/4HwwrkfpSLs?si=Z3GtosxN31surLJH)
+
 [SQL Practice Quiz || Solve this 25 MCQ Questions || Basic to Intermediate Level Questions](https://youtu.be/dMjdoSzaXJQ?si=PvOuaPDqmqpSO7Pu)
 
 [How to Remove Duplicate Data in SQL || Handling Duplicate Data Using SQL || Delete Duplicate Rows](https://youtu.be/FDlaBZHcAuo?si=S7E7MypG6BoRaK1k)
