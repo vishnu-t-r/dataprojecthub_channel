@@ -4,11 +4,13 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Practice Quiz || Solve this 25 MCQ Questions || Basic to Intermediate Level Questions](https://youtu.be/dMjdoSzaXJQ?si=PvOuaPDqmqpSO7Pu)
+
 [How to Remove Duplicate Data in SQL || Handling Duplicate Data Using SQL || Delete Duplicate Rows](https://youtu.be/FDlaBZHcAuo?si=S7E7MypG6BoRaK1k)
 
 [Mastering SQL Concepts with Practical Questions || SQL for Real-World Scenarios](https://youtu.be/1F6fKDri-xM?si=IUdC9-7Kc67qsPsY)
 
-[Complex SQL Interview Question || Data Analyst Interview Question || Limitation of WINDOW Function](9https://youtu.be/MfNVqu9HmAM?si=7V6b7Te8rML5cMIw)
+[Complex SQL Interview Question || Data Analyst Interview Question || Limitation of WINDOW Function](https://youtu.be/MfNVqu9HmAM?si=7V6b7Te8rML5cMIw)
 
 [Data Analyst SQL Interview Question || Fractal SQL Interview Question || FRAME Clause in WINDOW](https://youtu.be/bGoIagG4CGQ?si=Ejco7Rxptd7sB4xK)
 
