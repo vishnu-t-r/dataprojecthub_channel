@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Screening Interview Questions || Test Your SQL Skills with Foundational Queries and Techniques](https://youtu.be/hOe3s0dSjbc?si=bbA8AEoJkG6eEjfY)
+
 [How to Remove Duplicate Data in SQL || Handling Duplicate Using SQL || Delete Duplicate-Part 2](https://youtu.be/4HwwrkfpSLs?si=Z3GtosxN31surLJH)
 
 [SQL Practice Quiz || Solve this 25 MCQ Questions || Basic to Intermediate Level Questions](https://youtu.be/dMjdoSzaXJQ?si=PvOuaPDqmqpSO7Pu)
