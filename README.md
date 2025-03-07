@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Caterpillar Data Analyst Interview | Cities with Equal Mutual Distance](https://youtu.be/bxnnC7fWh_4?si=Qm36OHMrnTjcrk3-)
+
 [Microsoft Data Analyst Interview Question | Frequent & Significant Purchases |SQL Interview Question](https://youtu.be/yp48swMzC3Y?si=Fo3bPL4U83wtFces)
 
 [SQL Screening Interview Questions || Test Your SQL Skills with Foundational Queries and Techniques](https://youtu.be/hOe3s0dSjbc?si=bbA8AEoJkG6eEjfY)
