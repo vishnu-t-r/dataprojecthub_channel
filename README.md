@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Complex SQL Interview Question | Data Analyst SQL Interview Question | Try Solving This !](https://youtu.be/MK1Mu8fTJiI?si=mBdBnId-YHLorMZ0)
+
 [SQL Interview Question | Caterpillar Data Analyst Interview | Cities with Equal Mutual Distance](https://youtu.be/bxnnC7fWh_4?si=Qm36OHMrnTjcrk3-)
 
 [Microsoft Data Analyst Interview Question | Frequent & Significant Purchases |SQL Interview Question](https://youtu.be/yp48swMzC3Y?si=Fo3bPL4U83wtFces)
