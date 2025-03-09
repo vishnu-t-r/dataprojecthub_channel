@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Solve Using CORRELATED SUB QUERY | Data Analyst Interview Question](https://youtu.be/URd-L6NKuaw?si=QQ1J1T_5C1IOujml)
+
 [Complex SQL Interview Question | Data Analyst SQL Interview Question | Try Solving This !](https://youtu.be/MK1Mu8fTJiI?si=mBdBnId-YHLorMZ0)
 
 [SQL Interview Question | Caterpillar Data Analyst Interview | Cities with Equal Mutual Distance](https://youtu.be/bxnnC7fWh_4?si=Qm36OHMrnTjcrk3-)
