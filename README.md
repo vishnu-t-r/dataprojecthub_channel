@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Top 10 Common SQL Errors and How to Fix Them | Troubleshooting for Efficient Queries | SQL](https://youtu.be/Gv-t1dp0bIc?si=GzjrvMCXxlUQTZCR)
+
 [SQL Interview Question | Delhivery Data Analyst Interview Question | Practice Interview Question](https://youtu.be/DmQfOejfp9g?si=OZJE8iKisZDvd6nZ)
 
 [SQL Interview Question | Solve Using CORRELATED SUB QUERY | Data Analyst Interview Question](https://youtu.be/URd-L6NKuaw?si=QQ1J1T_5C1IOujml)
