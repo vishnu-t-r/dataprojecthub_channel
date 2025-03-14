@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question || Complex SQL Interview Question || Try Solving This!](https://youtu.be/kiznJBq5Ikg?si=QKLCb6tJx2mYKGhs)
+
 [Top 10 Common SQL Errors and How to Fix Them | Troubleshooting for Efficient Queries | SQL](https://youtu.be/Gv-t1dp0bIc?si=GzjrvMCXxlUQTZCR)
 
 [SQL Interview Question | Delhivery Data Analyst Interview Question | Practice Interview Question](https://youtu.be/DmQfOejfp9g?si=OZJE8iKisZDvd6nZ)
