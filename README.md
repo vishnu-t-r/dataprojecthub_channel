@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question | Top Performing Products Based on Different Criteria | SQL](https://youtu.be/C03xfXs4iu0?si=Jzyw1T2_vm-B-LQi)
+
 [Complex SQL Interview Question || Data Analyst SQL Interview Question || Can You Solve This!](https://youtu.be/X7g3ibInSOU?si=lZd3ydl3a6MrGegf)
 
 [Data Analyst SQL Interview Question || Complex SQL Interview Question || Try Solving This!](https://youtu.be/kiznJBq5Ikg?si=QKLCb6tJx2mYKGhs)
