@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question | Identify Customers with Consecutive Seat Bookings | SQL](https://youtu.be/gV0CQ2zjcP8?si=Fl5WkNnS7IHNxrfF)
+
 [Tricky Data Analyst SQL Interview Question | Consecutive Days a Customer Placed Orders | Try This!](https://youtu.be/ElKUeyyb26I?si=z503oYQKYM-LlOVZ)
 
 [Master SQL Grouping Combinations || Optimize Complex Queries with SQL Functions || SQL Functions](https://youtu.be/PNJC1DBu_-Y?si=nlR52sOd4tlOwn93)
