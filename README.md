@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky Data Analyst SQL Interview Question | Consecutive Days a Customer Placed Orders | Try This!](https://youtu.be/ElKUeyyb26I?si=z503oYQKYM-LlOVZ)
+
 [Master SQL Grouping Combinations || Optimize Complex Queries with SQL Functions || SQL Functions](https://youtu.be/PNJC1DBu_-Y?si=nlR52sOd4tlOwn93)
 
 [Data Analyst SQL Interview Question | Top Performing Products Based on Different Criteria | SQL](https://youtu.be/C03xfXs4iu0?si=Jzyw1T2_vm-B-LQi)
