@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Important SQL Interview Question || Commonly Asked || Conditional Aggregation in SQL](https://youtu.be/kXIIgJ6nV18?si=McwSDWC3ba7Dbgnb)
+
 [Data Analyst SQL Interview Question | Find Top Spending Customers | SQL [Commonly Asked Question]](https://youtu.be/4VE6W2KE4dA?si=9qgVptXvbAycKhR9)
 
 [Complex SQL Interview Question | Customers Who Viewed the Same Product on Consecutive Days | SQL](https://youtu.be/s8zQ-gEGd2I?si=_u7Wtf-7qh9eze3t)
