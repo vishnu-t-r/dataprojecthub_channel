@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question || Try Solving This [Data/Business Analyst Interview Question]](https://youtu.be/6SLW-63PqFk?si=pFa1mlVTNDtJWQYu)
+
 [Important SQL Interview Question || Commonly Asked || Conditional Aggregation in SQL](https://youtu.be/kXIIgJ6nV18?si=McwSDWC3ba7Dbgnb)
 
 [Data Analyst SQL Interview Question | Find Top Spending Customers | SQL [Commonly Asked Question]](https://youtu.be/4VE6W2KE4dA?si=9qgVptXvbAycKhR9)
