@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Master Your SQL Interviews [Solving 25 SQL Interview Questions]](https://youtu.be/0GwwFgNDLfE?si=dVP31Koavx-mz4SK)
+
 [SQL Interview Question | Data Analyst | Business Analyst [Try Solving This]](https://youtu.be/FxDJQm-8-T0?si=YU4JtJIXrcjncSJf)
 
 [SQL Interview Question | Business Analyst | Data Analyst [Simple Screening Question]](https://youtu.be/OywiDVuA-Sc?si=aYxAD8-JuHaN8-tH)
