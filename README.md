@@ -332,6 +332,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## Tableau
 
+[Lollipop Chart in Tableau | Visualize Data Like a Pro [Tableau]](https://youtu.be/QZsBzWFjUS0?si=epn4gLeJQEK1cqWV)
+
 [Update Database Table from Tableau Dashboard | Tableau Advanced](https://youtu.be/MLsI02Fehg4?si=07-nbS4c6f1MmA8W)
 
 [Word Cloud in Tableau | Tag Cloud | Tableau Visualization](https://youtu.be/oWPbshl00kc?si=U1zUvBxFVmc5o3bl)
