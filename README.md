@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question to Test Your Skills [Important Interview Question]](https://youtu.be/8hIVe-dZAZs?si=vAbZM5Fq_WFRDb8y)
+
 [Data Analyst SQL Challenge | SQL Interview Question [Commonly Asked - Part #1]](https://youtu.be/hurcdiuJH58?si=-R6MrivMr9-hnR06)
 
 [Tricky SQL Interview Question | Data-Business Analyst Interview Question [Try This]](https://youtu.be/F-BdDS2pzbA?si=r-KjSCRjtRrynfhM)
