@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Tricky SQL Interview Question | Data-Business Analyst Interview Question [Try This]](https://youtu.be/F-BdDS2pzbA?si=r-KjSCRjtRrynfhM)
+
 [Advanced SQL Interview Question | Data Analyst | Data Engineer | Business Analyst [Try This]](https://youtu.be/rtkLqqVYP5U?si=qeYSoxiYieTPbszc)
 
 [SQL Interview Question | Data Analyst | Data Engineer | Business Analyst [Try Solving This]](https://youtu.be/fVFK-Zje438?si=mtlow9WyXe0FupHO)
