@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Interview Question for Practice | Advanced SQL Queries [Try Solving This]](https://youtu.be/YsNoR9LzbgQ?si=Gry-mgazL0V7-Qpq)
+
 [Advanced SQL Interview Question | Recursive CTE | Data Analyst | Data Engineer | Business Analyst](https://youtu.be/9EkAf9HDmC8?si=tvqxefgBBSPtFUnH)
 
 [SQL Data Analysis | Solving SQL Interview Questions [Try This!]](https://youtu.be/689iYCeAaqQ?si=0QFYG02GxFpIsK7r)
