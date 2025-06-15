@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst SQL Challenge | SQL Screening Interview Question [Try Solving This #3]](https://youtu.be/1_7x9L-OU5Q?si=HS_VavJDk3x_vjsj)
+
 [Data Analyst Advanced SQL Interview Question | Advanced SQL Queries [Try This!]](https://youtu.be/hHecee4u2TU?si=b82ih2RnglDraIKx)
 
 [Data Analyst SQL Challenge | SQL Interview Question [ Try Solving This #2]](https://youtu.be/0mOuGTmrtyo?si=Mk7d1fMLbJqUEecu)
