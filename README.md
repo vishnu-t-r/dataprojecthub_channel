@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Advanced SQL Interview Question for Data Analyst | Analytical Functions [Can You Solve This]](https://youtu.be/3V7fcZQJFsM?si=yVJakoUW2gke7zLF)
+
 [Can You Solve This SQL Interview Question | Data Analyst Interview Question [Try This]](https://youtu.be/RBwTj1_N1-c?si=2CcgFi6VZbA1All1)
 
 [Data Analyst Advanced SQL Interview Question | SQL Challenge [Try Solving This!]](https://youtu.be/sIwuid3wLDs?si=TyJdawB8ySzUKOIg)
