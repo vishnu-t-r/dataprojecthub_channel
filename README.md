@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | How to Find Duplicates and Keep Latest | A Must-Know SQL Query](https://youtu.be/_E7-5-emYus?si=NFDVqx4M_GJzcMZw)
+
 [Data Analyst SQL Challenge | SQL Screening Interview Question [Try Solving This] #4](https://youtu.be/Fn2GttLCwus?si=NgLaKGlO-lURSDQc)
 
 [Advanced SQL Interview Question for Data Analyst | Analytical Functions [Can You Solve This]](https://youtu.be/3V7fcZQJFsM?si=yVJakoUW2gke7zLF)
