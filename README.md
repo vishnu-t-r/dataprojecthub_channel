@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Can You Solve This 'Senior Level' SQL Challenge? || FAANG Interview Question](https://youtu.be/6jt9fjoqh1A?si=mVZck5ZKclJw_QS3)
+
 [SQL Interview Question | How to Find Duplicates and Keep Latest | A Must-Know SQL Query](https://youtu.be/_E7-5-emYus?si=NFDVqx4M_GJzcMZw)
 
 [Data Analyst SQL Challenge | SQL Screening Interview Question [Try Solving This] #4](https://youtu.be/Fn2GttLCwus?si=NgLaKGlO-lURSDQc)
