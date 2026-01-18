@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[The most festive SQL query you’ll ever write | SQL Christmas Tree 🎄](https://youtu.be/wFed-2oPCo0?si=c5NmNv82iC2Hx_nR)
+
 [Can You Solve This 'Senior Level' SQL Challenge? || FAANG Interview Question](https://youtu.be/6jt9fjoqh1A?si=mVZck5ZKclJw_QS3)
 
 [SQL Interview Question | How to Find Duplicates and Keep Latest | A Must-Know SQL Query](https://youtu.be/_E7-5-emYus?si=NFDVqx4M_GJzcMZw)
