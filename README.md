@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst Certifications || Top 5 Free Data Analyst Course with Certificate [100 % VERIFIED]](https://youtu.be/ASwugd0-kTk?si=vFvgEyk8U8wQbuli)
+
 [The most festive SQL query you’ll ever write | SQL Christmas Tree 🎄](https://youtu.be/wFed-2oPCo0?si=c5NmNv82iC2Hx_nR)
 
 [Can You Solve This 'Senior Level' SQL Challenge? || FAANG Interview Question](https://youtu.be/6jt9fjoqh1A?si=mVZck5ZKclJw_QS3)
