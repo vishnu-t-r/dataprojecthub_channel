@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[ADVANCED SQL Interview Question | Solving Peak Viewer Problem | Senior Data Analyst Question](https://youtu.be/hRZC-kBBkTk?si=MBXO09R1j_Isi6EL)
+
 [SQL Interview Question | The Ghost Transaction Logic [ Advanced SQL]](https://youtu.be/NXDi1VLqxKQ?si=2-7JZq8y3grC0ur6)
 
 [Data Analyst Certifications || Top 5 Free Data Analyst Course with Certificate [100 % VERIFIED]](https://youtu.be/ASwugd0-kTk?si=vFvgEyk8U8wQbuli)
