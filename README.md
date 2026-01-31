@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Advanced SQL Challenge | SQL Interview Question | Spotify | Netflix [Can You Solve This?]](https://youtu.be/UoJ36I7SljM?si=fjaiZHyEKFpZ344g)
+
 [ADVANCED SQL Interview Question | Solving Peak Viewer Problem | Senior Data Analyst Question](https://youtu.be/hRZC-kBBkTk?si=MBXO09R1j_Isi6EL)
 
 [SQL Interview Question | The Ghost Transaction Logic [ Advanced SQL]](https://youtu.be/NXDi1VLqxKQ?si=2-7JZq8y3grC0ur6)
