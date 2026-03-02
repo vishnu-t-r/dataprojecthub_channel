@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Question | Data Analyst Interview Question | HARD CHALLENGE](https://youtu.be/CxbDaAMzkig?si=meneLBjIqT3DU99p)
+
 [Advanced SQL Challenge | SQL Interview Question | Spotify | Netflix [Can You Solve This?]](https://youtu.be/UoJ36I7SljM?si=fjaiZHyEKFpZ344g)
 
 [ADVANCED SQL Interview Question | Solving Peak Viewer Problem | Senior Data Analyst Question](https://youtu.be/hRZC-kBBkTk?si=MBXO09R1j_Isi6EL)
