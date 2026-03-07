@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Writing BETTER SQL | Pro Tricks to Make Your SQL Queries Better](https://youtu.be/AXVPBP21JL4?si=trdlVEAIQZ5k0vi2)
+
 [SQL Interview Question | Data Analyst Interview Question | HARD CHALLENGE](https://youtu.be/CxbDaAMzkig?si=meneLBjIqT3DU99p)
 
 [Advanced SQL Challenge | SQL Interview Question | Spotify | Netflix [Can You Solve This?]](https://youtu.be/UoJ36I7SljM?si=fjaiZHyEKFpZ344g)
