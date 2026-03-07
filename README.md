@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Data Analyst & Data Engineer Interview Challenge | SQL Interview Challenge [HARD CHALLENGE]](https://youtu.be/hd4JABBUSKM?si=NB0KwD57sk9C5vrn)
+
 [Writing BETTER SQL | Pro Tricks to Make Your SQL Queries Better](https://youtu.be/AXVPBP21JL4?si=trdlVEAIQZ5k0vi2)
 
 [SQL Interview Question | Data Analyst Interview Question | HARD CHALLENGE](https://youtu.be/CxbDaAMzkig?si=meneLBjIqT3DU99p)
