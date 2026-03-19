@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Product Based Company SQL Interview Question | Customer Churn and Recovery [SOLVE THIS]](https://youtu.be/egI-bHL9wKs?si=k-PvxjBsv7aXMknr)
+
 [SQL Interview Challenge for Senior Analyst | Advanced SQL Interview Challenge | Writing PRO SQL](https://youtu.be/1m3r-hK21CM?si=OmGim-vXdtPl-HDw)
 
 [Data Analyst Interview Question | SQL Interview Question | Deloitte [BIG4]](https://youtu.be/4tCNH3H8TB4?si=fW7nKP3t479sd_CP)
