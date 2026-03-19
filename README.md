@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[SQL Interview Challenge for Senior Analyst | Advanced SQL Interview Challenge | Writing PRO SQL](https://youtu.be/1m3r-hK21CM?si=OmGim-vXdtPl-HDw)
+
 [Data Analyst Interview Question | SQL Interview Question | Deloitte [BIG4]](https://youtu.be/4tCNH3H8TB4?si=fW7nKP3t479sd_CP)
 
 [How I Practiced SQL & Python for FREE | Best for SQL & Python Practice](https://youtu.be/YMfG_c6KZ1o?si=FxSGhGtpWm3qWHwX)
