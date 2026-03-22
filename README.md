@@ -4,6 +4,8 @@ This repository contains reference links to contents on my youtube channel where
 
 ## SQL
 
+[Scenario Based Interview Question | TRICKY SQL Interview Challenge [With USE CASE]](https://youtu.be/qcHOLhm46ck?si=BFPQTLNdXKardSth)
+
 [Product Based Company SQL Interview Question | Customer Churn and Recovery [SOLVE THIS]](https://youtu.be/egI-bHL9wKs?si=k-PvxjBsv7aXMknr)
 
 [SQL Interview Challenge for Senior Analyst | Advanced SQL Interview Challenge | Writing PRO SQL](https://youtu.be/1m3r-hK21CM?si=OmGim-vXdtPl-HDw)
